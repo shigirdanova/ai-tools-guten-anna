@@ -1,0 +1,6 @@
+.DS_Store
+# Личные файлы — не публиковать (см. README)
+career/cv/*
+!career/cv/.gitkeep
+health/labs/*
+!health/labs/.gitkeep
