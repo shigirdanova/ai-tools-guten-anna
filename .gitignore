@@ -4,3 +4,5 @@ career/cv/*
 !career/cv/.gitkeep
 health/labs/*
 !health/labs/.gitkeep
+stocks/files/*
+!stocks/files/.gitkeep
